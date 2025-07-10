@@ -7,7 +7,8 @@
 
 
 ## 🎯 O objetivo:
-Aplicativo para verificar a adequação de perfil do Investidor com base na resolução CVM 175
+Aumentar a produtividade do consultor financeiro com insigths de valor
+
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - 
